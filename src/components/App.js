@@ -1,4 +1,7 @@
 import React from "react";
+import Home, { username, city } from "./Home";
+import NavBar from "./NavBar";
+import About, { image } from "./About";
 
 function App() {
   return (
